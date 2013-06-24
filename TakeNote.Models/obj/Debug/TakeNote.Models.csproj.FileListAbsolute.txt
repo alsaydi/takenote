@@ -1,0 +1,8 @@
+c:\users\int1024\documents\visual studio 2012\Projects\TakeNote\TakeNote.Models\bin\Debug\TakeNote.Models.dll.config
+c:\users\int1024\documents\visual studio 2012\Projects\TakeNote\TakeNote.Models\bin\Debug\TakeNote.Models.dll
+c:\users\int1024\documents\visual studio 2012\Projects\TakeNote\TakeNote.Models\bin\Debug\TakeNote.Models.pdb
+c:\users\int1024\documents\visual studio 2012\Projects\TakeNote\TakeNote.Models\bin\Debug\EntityFramework.dll
+c:\users\int1024\documents\visual studio 2012\Projects\TakeNote\TakeNote.Models\bin\Debug\EntityFramework.xml
+c:\users\int1024\documents\visual studio 2012\Projects\TakeNote\TakeNote.Models\obj\Debug\TakeNote.Models.dll
+c:\users\int1024\documents\visual studio 2012\Projects\TakeNote\TakeNote.Models\obj\Debug\TakeNote.Models.pdb
+C:\Users\int1024\Documents\Visual Studio 2012\Projects\TakeNote\TakeNote.Models\obj\Debug\TakeNote.Models.csprojResolveAssemblyReference.cache

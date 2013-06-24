@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeNote.Web", "TakeNote.Web\TakeNote.Web.csproj", "{B9BC2036-48D2-44AB-83EE-DBDF3CF0B506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeNote.Tests", "TakeNote.Tests\TakeNote.Tests.csproj", "{B1A35B69-8BC3-41B3-9316-05AE8A0C6101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeNote.Models", "TakeNote.Models\TakeNote.Models.csproj", "{44B521CC-1475-4CD3-A3E2-9630FB007923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeNote.DAL", "TakeNote.DAL\TakeNote.DAL.csproj", "{C0CE9361-FE0E-4375-8367-C895B7F85545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeNote.Services", "TakeNote.Services\TakeNote.Services.csproj", "{4E3A3A83-EEA5-4E1C-BE4F-6CA8BA0DDDAC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://argsv.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TakeNote.Models\\TakeNote.Models.csproj
+		SccProjectName1 = TakeNote.Models
+		SccLocalPath1 = TakeNote.Models
+		SccProjectUniqueName2 = TakeNote.Tests\\TakeNote.Tests.csproj
+		SccProjectName2 = TakeNote.Tests
+		SccLocalPath2 = TakeNote.Tests
+		SccProjectUniqueName3 = TakeNote.Web\\TakeNote.Web.csproj
+		SccProjectName3 = TakeNote.Web
+		SccLocalPath3 = TakeNote.Web
+		SccProjectUniqueName4 = TakeNote.DAL\\TakeNote.DAL.csproj
+		SccProjectName4 = TakeNote.DAL
+		SccLocalPath4 = TakeNote.DAL
+		SccProjectUniqueName5 = TakeNote.Services\\TakeNote.Services.csproj
+		SccProjectName5 = TakeNote.Services
+		SccLocalPath5 = TakeNote.Services
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9BC2036-48D2-44AB-83EE-DBDF3CF0B506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BC2036-48D2-44AB-83EE-DBDF3CF0B506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BC2036-48D2-44AB-83EE-DBDF3CF0B506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BC2036-48D2-44AB-83EE-DBDF3CF0B506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A35B69-8BC3-41B3-9316-05AE8A0C6101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A35B69-8BC3-41B3-9316-05AE8A0C6101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A35B69-8BC3-41B3-9316-05AE8A0C6101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A35B69-8BC3-41B3-9316-05AE8A0C6101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B521CC-1475-4CD3-A3E2-9630FB007923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B521CC-1475-4CD3-A3E2-9630FB007923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B521CC-1475-4CD3-A3E2-9630FB007923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B521CC-1475-4CD3-A3E2-9630FB007923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CE9361-FE0E-4375-8367-C895B7F85545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CE9361-FE0E-4375-8367-C895B7F85545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CE9361-FE0E-4375-8367-C895B7F85545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CE9361-FE0E-4375-8367-C895B7F85545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3A3A83-EEA5-4E1C-BE4F-6CA8BA0DDDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3A3A83-EEA5-4E1C-BE4F-6CA8BA0DDDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3A3A83-EEA5-4E1C-BE4F-6CA8BA0DDDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3A3A83-EEA5-4E1C-BE4F-6CA8BA0DDDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+./bin/
+./TakeNote.Tests/
+./TakeNote.Web/bin/
+./TakeNote.Web/obj/
+./TakeNote.Web/App_Data/
+./TakeNote.Models/bin/
+./packages/
+TakeNote.Web.csproj.user
+*.dll
+*.mdf
+*.ldf
